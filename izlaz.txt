@@ -1,0 +1,8 @@
+ |Naziv proizvodjaca: |Cookie maker 52     |Potrosnja energije:           |  2763.12 W|
+ |Naziv modela:       |ASGE                |Maks. broj sati rada:         | 98900 sati|
+ |Godina proizvodnje: |                2021|Broj stepeni slobode kretanja:|     4 sslk|
+ |Pogon: ELEKTROMAGNETNI_POGON             |Efikasnost:                   |434478.11 #|
+ |Naziv proizvodjaca: |Danis gay           |Potrosnja energije:           |  3263.12 W|
+ |Naziv modela:       |ASBI                |Maks. broj sati rada:         | 10000 sati|
+ |Godina proizvodnje: |                2011|Broj stepeni slobode kretanja:|     5 sslk|
+ |Pogon: HIDRAULICNI_POGON                 |Efikasnost:                   |329608.08 #|
